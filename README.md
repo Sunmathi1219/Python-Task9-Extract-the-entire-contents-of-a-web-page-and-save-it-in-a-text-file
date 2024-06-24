@@ -1,0 +1,2 @@
+# Python-Task9-Extract-the-entire-contents-of-a-web-page-and-save-it-in-a-text-file
+Visit the url https://www.saucedemo.com/ and login with the following credentials Username:standard_user password:secret_sauce Try to fetch the following using python selenium: 1.)Tittle of the web page 2.)Current URL of the webpage 3.)Extract the entire content of the webpage and save it in a text file whose name will be webpage_task_11.txt
